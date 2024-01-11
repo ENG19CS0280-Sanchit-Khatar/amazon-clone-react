@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshots
+<img src = "https://github.com/ENG19CS0280-Sanchit-Khatar/amazon-clone-react/blob/main/assets/ss1.png" width = "800" height = "500" />
 
 ## Available Scripts
 
